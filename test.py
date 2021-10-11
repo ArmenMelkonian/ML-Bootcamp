@@ -15,4 +15,4 @@ s = "This is string"
 l = s.split()
 print(l)
 print(" 1 ".join(l))
-print(f"This is {x = }")
+print(f"This is {x=}")
