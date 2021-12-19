@@ -1,15 +1,5 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 import numpy as np
 from tqdm import tqdm
-
-
-# In[2]:
-
 
 class SNE():
     
@@ -76,10 +66,3 @@ class SNE():
     
     def gradient_descent(self):
         pass
-
-
-# In[ ]:
-
-
-
-
